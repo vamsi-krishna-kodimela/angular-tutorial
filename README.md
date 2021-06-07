@@ -10,6 +10,6 @@
 - Now browse the URL [localhost:4200](http://localhost:4200) to visit your site.
 ### Open app at custom port
 - Use this to run with a custom post `ng serve --port 4000`
-- - You can change 400 to any number
+  - You can change 400 to any number
 ### Open app in browser when build complete
 - Use this to open browser once build completed `ng serve --open`
