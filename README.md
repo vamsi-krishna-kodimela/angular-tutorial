@@ -13,3 +13,11 @@
   - You can change 400 to any number
 ### Open app in browser when build complete
 - Use this to open browser once build completed `ng serve --open`
+
+## Folders
+- **assets:** to store static files like images, documents, etc.
+- **environments:** to store environmental variables.
+- **src:** contains your project core files
+- **src/app:** your whole source code for the project lies in here.
+- **src/index.html:** this is a file which act as a single point contact to your application.
+
