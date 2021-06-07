@@ -7,4 +7,4 @@
 ## Create Your first angular app
 - Open command prompt and run the command `ng new [appname]`
 - Now navigate to project directory and run `ng serve` to run your app.
-- Now browse the URL [localhost:4200] to visit your site.
+- Now browse the URL [localhost:4200](http://localhost:4200) to visit your site.
